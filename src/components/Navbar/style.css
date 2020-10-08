@@ -1,0 +1,18 @@
+.lang {
+    position: absolute;
+    display: inline-block;
+    padding: 5px 10px; 
+    cursor: pointer;
+    margin: 5px 0;
+    border: 1px solid black;
+}
+
+.lang.active {
+    position: absolute;
+    display: inline-block;
+    padding: 5px 10px; 
+    cursor: pointer;
+    margin: 5px 0;
+    border: 1px solid black;
+    right: 60
+}
